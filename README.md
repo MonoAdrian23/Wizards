@@ -1,7 +1,7 @@
 # Wizards
 Minecraft Bedrock Software written in Java!
 
-Die neue Minecraft Bedrock Serversoftware, geschrieben in Java 11
+Die neue Minecraft Bedrock Serversoftware, geschrieben in Java 11!
 Die Vorzüge von Wizards zählen wir dir auf.
 
 - Kompatibilität mit Minecraft Java und Minecraft Bedrock
@@ -11,12 +11,19 @@ Die Vorzüge von Wizards zählen wir dir auf.
 - Plugins womit du deinen Server individuell anpassen kannst
 - Support für LevelDB/Volle Weltenunterstützung 
 - CustomEnchants sind implementiert
-- Pocketmine Plugins Konverter für Java Support
+- Pocketmine Plugin Konverter für Java Support
 
 Anleitung für die Konvertierung von Pocketmine Plugins.
 
 - Wähle ein Plugin von poggit.pmmp.io
 - Lade das Plugin in den Ordner Wizards/convert hoch
 - Dort wird dein Plugin nun geladen und ist sofort einsatzbereit
+
+Anleitung für Nukkit Plugins
+
+- Lade ein Plugin deiner Wahl von Cloudburstmc.org herunter
+- Lade es in den Ordner Wizards/plug hoch
+- Restarte den Server 
+- Das Plugin ist nun geladen
 
 
